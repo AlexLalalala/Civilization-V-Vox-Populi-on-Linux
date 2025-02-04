@@ -41,8 +41,8 @@ You would think VP is installed but there is a small problem. VP installs the mo
 
 # Step 4:
 
-  -  Copy the contents of the folder.
-  -  Paste the folder in the installation location of Civ 5 of Steam. The default location is: "~/.local/share/Steam/steamapps/common/Sid Meier's Civilization V/". If it is not there, check your download locations in Steam (Settings -> Downloads -> Steam Library Folders) to see where Civ 5 is installed.
+  -  Copy the "Asset" folder.
+  -  Paste the folder in the installation location of Civ 5 of Steam and confirm the merges. The default location is: "~/.local/share/Steam/steamapps/common/Sid Meier's Civilization V/". If it is not there, check your download locations in Steam (Settings -> Downloads -> Steam Library Folders) to see where Civ 5 is installed.
 
 
 # Step 5: Enjoy the game!
